@@ -1,2 +1,2 @@
- * 2020
-    * [SigmaPrime's review of Drand](assets/drand.pdf)
+ * Go
+    * [SigmaPrime's 2020 review of Drand](assets/drand.pdf)
