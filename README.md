@@ -5,6 +5,7 @@
  * [Mooniswap Audit Report](https://dapp.org.uk/reports/mooniswap.html)
  * [Optimism Audit Report: ECDSA Wallet](https://dapp.org.uk/reports/optimism.html)
  * [Radicle Audit Report: Governance and Registrar](https://dapp.org.uk/reports/radicle.html)
+ * [Rustls](https://github.com/ctz/rustls/blob/main/audit/TLS-01-report.pdf)
 
  * Unsorted (yet):
     * [public-audits: Collection of public security reviews](https://github.com/sigp/public-audits/)
